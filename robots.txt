@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Mediahealthcare.github.io/sitemap.xml
